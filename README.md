@@ -1,4 +1,4 @@
-# 🔥 Remote Work Burnout Prediction — Machine Learning Pipeline
+# Remote Work Burnout Prediction — Machine Learning Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
@@ -229,8 +229,6 @@ sample = pd.DataFrame({
 ## Author
 
 **Muhammad Sheryar Adil**
-BSc Computer Science / Data Science — Teesside University
-Research Internship — Digital Building, Teesside University (Jan 2026 – May 2026)
 
 ---
 
