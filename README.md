@@ -225,7 +225,36 @@ sample = pd.DataFrame({
 | `jupyter` | Interactive notebook environment |
 
 ---
+## Code Screenshots
+<img width="937" height="761" alt="1" src="https://github.com/user-attachments/assets/ccd68dee-3e15-4265-af2d-a7800c2ba22a" />
+<img width="1331" height="730" alt="2" src="https://github.com/user-attachments/assets/8fa6b937-827c-402d-9d91-d9388cce9337" />
+<img width="1173" height="767" alt="3" src="https://github.com/user-attachments/assets/df17d9ad-c236-4da4-b084-2c28e630e293" />
+<img width="765" height="410" alt="4" src="https://github.com/user-attachments/assets/b59bd10f-9776-4fbe-8102-2b7c1c282674" />
+<img width="1407" height="760" alt="4 1" src="https://github.com/user-attachments/assets/0c957e7e-bf50-4149-8f44-13dba8098a0f" />
+<img width="546" height="596" alt="5" src="https://github.com/user-attachments/assets/73156fa0-0d4f-4b9f-b255-b918e265d514" />
+<img width="1331" height="766" alt="6" src="https://github.com/user-attachments/assets/3ade9674-1ea7-4194-87e3-f8860f7a72f5" />
+<img width="957" height="717" alt="7" src="https://github.com/user-attachments/assets/b637ee2c-13d0-4188-a6c5-5b1bcd3e07eb" />
+<img width="1485" height="692" alt="8" src="https://github.com/user-attachments/assets/352c9de7-afa0-4644-a4bc-3cbcc85ae177" />
+<img width="668" height="670" alt="9" src="https://github.com/user-attachments/assets/56a999e5-73c1-4298-8a4d-81c1a044c328" />
+<img width="682" height="580" alt="10" src="https://github.com/user-attachments/assets/ceec4ad4-443b-4b9d-a9df-1a7f57d2181f" />
+<img width="1003" height="392" alt="11" src="https://github.com/user-attachments/assets/c7198c3f-b469-4f94-8059-92b99ca01086" />
+<img width="773" height="593" alt="12" src="https://github.com/user-attachments/assets/4ca46216-45f8-4c14-9489-62f4b35be327" />
+<img width="842" height="547" alt="13" src="https://github.com/user-attachments/assets/620bdd33-9db3-4657-8168-6e4bac52f10a" />
+<img width="766" height="401" alt="14" src="https://github.com/user-attachments/assets/5f6eff7c-7d92-40ae-866f-47b568b53928" />
+<img width="662" height="527" alt="15" src="https://github.com/user-attachments/assets/4d04fdd1-a948-4783-90bb-5c1e19a88c8e" />
+<img width="628" height="730" alt="16" src="https://github.com/user-attachments/assets/d39c6720-e33a-4152-af69-f3ec70091a57" />
+<img width="1312" height="733" alt="17" src="https://github.com/user-attachments/assets/bc452475-5a1a-44bb-8dcf-a9268e0a1439" />
+<img width="672" height="743" alt="18" src="https://github.com/user-attachments/assets/6692323b-4d1b-4275-9b72-1f30a05e217b" />
+<img width="766" height="402" alt="19" src="https://github.com/user-attachments/assets/a1d5f94f-15ce-4adc-8f4d-861ae87ed60b" />
+<img width="715" height="645" alt="20" src="https://github.com/user-attachments/assets/f7f186f2-c8ab-4f00-9adc-83200b9d2fdd" />
+<img width="712" height="511" alt="21" src="https://github.com/user-attachments/assets/233f1cd5-c862-4d75-847c-dbfe9415b464" />
+<img width="1032" height="658" alt="22" src="https://github.com/user-attachments/assets/74fd6cb4-3225-4423-a3f8-944e4ffb3953" />
+<img width="572" height="503" alt="23" src="https://github.com/user-attachments/assets/f83ffe8b-c675-4917-ba9a-5dd85399f49d" />
+<img width="857" height="625" alt="24" src="https://github.com/user-attachments/assets/fd516666-75c3-47af-97c7-38db2077e291" />
+<img width="691" height="695" alt="25" src="https://github.com/user-attachments/assets/ebe8460a-b771-40f5-8995-85daa4ca6d82" />
+<img width="726" height="766" alt="26" src="https://github.com/user-attachments/assets/74dc87b4-ad3a-4fb1-855b-713ffdee4101" />
 
+---
 ## Author
 
 **Muhammad Sheryar Adil**
