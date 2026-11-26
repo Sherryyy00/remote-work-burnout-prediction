@@ -124,19 +124,21 @@ Sample Prediction (new employee profile)
 
 ## Key Results
 
-> Note: Exact values depend on random state and SMOTE sampling. Values below are representative.
+These are the real results from `Remote_Work_Burnout_Prediction.ipynb` (1,800 rows, 20% test split).
+The dataset is very imbalanced: only **20 of 1,800** rows are High risk, so the test set holds just **4** High-risk cases.
 
-| Model | Accuracy | F1 (High class) | ROC-AUC |
+| Model | Accuracy | High-risk recall | High-risk precision |
 |---|---|---|---|
-| Random Forest (tuned) | ~0.92 | Improved | ~0.97 |
-| Logistic Regression | ~0.89 | Moderate | ~0.94 |
-| Gradient Boosting | ~0.94 | Strong | ~0.98 |
+| Random Forest (default threshold) | 0.975 | 0.00 (0 of 4) | 0.00 |
+| Logistic Regression (class_weight=balanced) | 0.942 | 1.00 (4 of 4) | 0.16 |
 
-**Regression (Burnout Score)**
-- R² score demonstrates strong predictive fit
-- Visualised with predicted vs actual scatter plot and residuals plot
+**The lesson:** the Random Forest looks best on accuracy but never flags a single High-risk employee.
+Logistic Regression catches all 4 but raises a lot of false alarms. Accuracy alone is not a valid
+metric here, which is why `Remote_Work_Burnout_Improved.ipynb` adds SMOTE, threshold tuning and
+stratified cross-validation.
 
-**Critical fix applied:** Without threshold tuning, the Random Forest achieved 97.5% accuracy but detected **zero** High-risk cases. After tuning, High-risk recall improved substantially — accuracy alone is not a valid metric for imbalanced classification.
+> With only 4 High-risk cases in the test set, these numbers move a lot between runs. Treat them as
+> a warning about imbalance, not as a final score.
 
 ---
 
@@ -145,7 +147,7 @@ Sample Prediction (new employee profile)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/remote-work-burnout-prediction.git
+git clone https://github.com/Sherryyy00/remote-work-burnout-prediction.git
 cd remote-work-burnout-prediction
 ```
 
